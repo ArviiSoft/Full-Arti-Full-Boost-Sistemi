@@ -1,0 +1,23 @@
+{
+  "version": "9.9.9",
+  "description": "arviis. - Boost Sistemi",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "arviis:dev": "nodemon bot.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord-logs": "^1.9.0",
+    "discord.js": "^12.5.0",
+    "express": "^4.17.1",
+    "jimp": "^0.16.0",
+    "moment": "^2.29.1",
+    "quick.db": "^9.1.7",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^4.3.1"
+  }
+}
