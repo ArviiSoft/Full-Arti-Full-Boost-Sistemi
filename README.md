@@ -5,6 +5,8 @@
 
 # 💵・Hatalarla Uğraşmak İstemiyorsanız Satın Alabilirsiniz
 https://www.itemsatis.com/discord/full-full-boost-sistemi-1790634.html
+
+https://www.itempazar.com/discord-uye-nitro-sunucu/full-full-boost-sistemi-116399
 # 
 #
 
